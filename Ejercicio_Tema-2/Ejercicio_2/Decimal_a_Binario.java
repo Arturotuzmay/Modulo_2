@@ -7,7 +7,7 @@ package ejercicio_2;
 
 /**
  *
- * @author Usuario
+ * @author Manuel Arturo Tuz May 3° "B"
  */
 public class Decimal_a_Binario {
 
