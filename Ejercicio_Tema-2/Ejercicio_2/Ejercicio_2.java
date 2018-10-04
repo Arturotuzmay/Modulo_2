@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Usuario
+ * @author Manuel Arturo Tuz May 3° "B"
  */
 public class Ejercicio_2 {
 
